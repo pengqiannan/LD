@@ -24,7 +24,7 @@ CNsourcesName = {'cpd00013','cpd00027','cpd00197','cpd00077','cpd00401','cpd0015
 CNsourcesNumber = [-100,0,-15,-15,-15,-15,-15,-15,-15,-15,-15,-15,-15];
 
 mmMedium = 'Mymedium.txt' 
-directory = 'F:\Southsea-data\NC\model\'
+directory = 'F:\model\'
 compoundtest = {'cpd00013','cpd00027','cpd00197','cpd00077','cpd00401','cpd00153','cpd04073','cpd00561','cpd00489','cpd00604','cpd00136','cpd01059','cpd01733'};
 
 if ((exist(['Percent' ...
