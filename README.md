@@ -1,5 +1,5 @@
 # LD
-A newly developed metabolic modeling pipeline, which could simulate the performances of different microbiomes.
+A metabolic modeling pipeline, which could simulate the performances of different microbiomes.
 
 
 Main function:
@@ -39,4 +39,3 @@ getEssensialReaction: Find the essensial reactions that in Rxnlist based on comb
 getImportantRxn: Find the important reactions that could increase the biomass of the species.
 
 
-See LD/doc for example documentation.
