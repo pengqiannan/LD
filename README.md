@@ -22,7 +22,7 @@ convertToIrreversibleModel: Convert models to irreversible models.
 
 GetAllCombination: Based on models provided for each species, the multispeciesModel cover all the combination of all species.
 
-GetMedium: Based on EX reactions of all models, the inorganic elements provided by MM medium, carbon and nitrogen sources provided, etc., are required to obtain culture conditions suitable for all bacterial combinations. 
+GetMedium: Based on EX reactions of all models, the inorganic elements provided by My medium, carbon and nitrogen sources provided, etc., are required to obtain culture conditions suitable for all bacterial combinations. 
 
 GetEnhancedCombination: Calculate the biomass of each combination (each multispeciesModel).
 
